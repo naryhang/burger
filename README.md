@@ -2,7 +2,7 @@
 
 ## Heroku Link: (Not functioning)
 
--issues with json packages.  
+-issue with JSON packages.  
 
 https://nary-burgers.herokuapp.com  
 
